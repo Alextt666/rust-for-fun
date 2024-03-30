@@ -1,6 +1,6 @@
-workspace = { members = ["basic_Borrowing"] }
+workspace = { members = ["thread_related"] }
 [package]
-name = "basic_ownership"
+name = "read_line"
 version = "0.1.0"
 edition = "2021"
 
